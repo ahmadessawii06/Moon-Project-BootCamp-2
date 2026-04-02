@@ -119,12 +119,43 @@ ul {
 }
 
 
-.collection h2{
+.collection h2 {
 
-    margin-top:23px;
-    font-family: Inter,sans-serif;
+    margin-top: 23px;
+    font-family: Inter, sans-serif;
     font-weight: 500;
     font-size: 18px;
 
 
+}
+
+
+
+.sellers-section {
+    padding: 80px 0;
+}
+
+.best-sellers h2 {
+    font-family: Garamond, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+.sellers-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+.seller {
+    width: calc((100% - 90px) / 4);
+    text-align: center;
+}
+
+.seller img {
+    width: 100%;
+    display: block;
 }
