@@ -39,8 +39,10 @@ Moon-Project-BootCamp/
 
 ## 📝 Notes
 
-This project is part of a bootcamp learning experience.
-Instrcutor: Tareq-Shreem (https://github.com/tariq-shreem)
+1. This project is part of a bootcamp learning experience.
+2. Instructor: Tareq-Shreem [**View Tareq-Shreem**](https://github.com/tariq-shreem).
+3. The project is designed to demonstrate web development skills and creativity.
+4. This project was taken in Ramadan month, in the last 10 days of Ramadan in 2026.
 ---
 
 **Last Updated:** April 2026
