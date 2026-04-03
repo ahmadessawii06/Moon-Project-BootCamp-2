@@ -1,4 +1,4 @@
-# Moon Project
+# 🌑 Moon Project
 
 A web project developed as part of a bootcamp program.
 
@@ -7,7 +7,7 @@ A web project developed as part of a bootcamp program.
 
 ## 🔗 Live Demo
 
-[**View Live Demo**](https://ahmadessawii06.github.io/Moon-Project-BootCamp/)
+[**View Live Demo Moon**](https://ahmadessawii06.github.io/Moon-Project-BootCamp/)
 
 ## 📋 Description
 
@@ -40,7 +40,7 @@ Moon-Project-BootCamp/
 ## 📝 Notes
 
 This project is part of a bootcamp learning experience.
-
+Instrcutor: Tareq-Shreem (https://github.com/tariq-shreem)
 ---
 
 **Last Updated:** April 2026
