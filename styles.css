@@ -13,7 +13,6 @@
 }
 
 a {
-    list-style-type: none;
     text-decoration: none;
 }
 
@@ -41,8 +40,9 @@ ul {
 
 .header a {
     color: #3A3845;
-    font-size: 14px;
+    font-size: 18px;
     font-family: Inter, sans-serif;
+    
 }
 
 
@@ -136,7 +136,7 @@ ul {
 }
 
 .best-sellers h2 {
-    font-family: Garamond, sans-serif;
+    font-family: "EB Garamond", sans-serif;
     font-size: 30px;
     font-weight: bold;
     margin-bottom: 48px;
@@ -207,4 +207,38 @@ ul {
     background-color: rgba(128, 128, 128, 0.308);
     transition: background-color 0.3s ease, color 0.3s ease;
     cursor: pointer;
+}
+
+
+
+
+@media screen and (max-width: 992px) {
+  .collection {
+    width: calc((100% - 30px) / 2);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .collection {
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 992px) {
+  .seller {
+    width: calc((100% - 30px) / 2);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .seller {
+    width: 100%;
+  }
+}
+
+
+.btn-cart {
+    border: 3px solid #ddd;
+    outline: none;
 }
