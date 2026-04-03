@@ -24,7 +24,7 @@ ul {
     text-align: center;
 }
 
-/* Header */
+
 .header .row {
     justify-content: space-between;
 }
@@ -79,9 +79,32 @@ ul {
         width: 100%;
         padding: 0 20px;
     }
+
+
 }
 
-/* Collections */
+
+@media (max-width: 768px) {
+    .designer-credit {
+        bottom: 10px;
+        right: 15px;
+        font-size: 11px;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .designer-credit {
+        position: static;
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+        color: #826F66;
+        opacity: 0.8;
+    }
+}
+
+
 .collections {
     background-color: #FFFFFF;
     padding: 80px 0;
@@ -119,7 +142,7 @@ ul {
     }
 }
 
-/* Sellers */
+
 .sellers-section {
     padding: 80px 0;
 }
@@ -220,25 +243,24 @@ ul {
 }
 
 
-.hero{
+.hero {
 
-    position: relative; 
+    position: relative;
 
 }
+
 .hero-img {
     width: 100%;
 }
 
 
-.banner{
+.banner {
     background-color: #826F66;
     z-index: 100;
     position: absolute;
     width: 420px;
     height: 100%;
 }
-
-
 
 
 .banner {
@@ -270,6 +292,7 @@ ul {
     width: 100%;
     display: block;
 }
+
 .banner h1 {
     color: white;
     font-family: "EB Garamond", serif;
@@ -293,7 +316,6 @@ ul {
 }
 
 
-
 @media (max-width: 768px) {
     .banner {
         position: static;
@@ -301,6 +323,27 @@ ul {
         height: auto;
     }
 }
+
+.designer-credit {
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+    font-size: 13px;
+    font-family: Inter, sans-serif;
+    color: rgb(0, 0, 0);
+    opacity: 0.6;
+}
+
+
+.designer-credit:hover {
+    opacity: 1;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+
+
 
 
 
