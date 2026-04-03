@@ -304,9 +304,3 @@ ul {
 
 
 
-.logo:hover::after {
-    content: "Designed by MJ";
-    position: absolute;
-    top: 40px;
-    font-size: 12px;
-}
