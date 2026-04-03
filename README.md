@@ -2,7 +2,7 @@
 
 A web project developed as part of a bootcamp program.
 
-![Hero Landing](assets/hero-landing.png)
+![Hero Landing](./assets/welcome.png)
 
 
 ## 🔗 Live Demo
