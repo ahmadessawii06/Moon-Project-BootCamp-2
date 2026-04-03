@@ -204,7 +204,7 @@ ul {
 
 
 .btn-cart:hover {
-    background-color: gray;
+    background-color: rgba(128, 128, 128, 0.308);
     transition: background-color 0.3s ease, color 0.3s ease;
     cursor: pointer;
 }
